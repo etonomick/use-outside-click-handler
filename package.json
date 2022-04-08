@@ -1,0 +1,15 @@
+{
+  "name": "use-outside-click-handler",
+  "version": "1.0.0",
+  "description": "Simple React hook to listen for outside clicks.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "react",
+    "click",
+    "outside",
+    "hook"
+  ],
+  "author": "Valery Stepanov <etonomick@gmail.com>",
+  "license": "ISC"
+}
