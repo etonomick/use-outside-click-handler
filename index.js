@@ -13,4 +13,4 @@ const useOutsideClickHandler = (ref, callback) => {
 
 }
 
-export default useOutsideClickHandler
+module.exports = useOutsideClickHandler
